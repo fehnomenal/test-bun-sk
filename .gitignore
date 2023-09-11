@@ -1,0 +1,4 @@
+.devenv/
+.direnv/
+.svelte-kit/
+node_modules/
